@@ -14,4 +14,4 @@ Order Food :
 
 Checkout :
 
-![](images/check.png)
+![](images/checkout.png)
